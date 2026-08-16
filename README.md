@@ -16,7 +16,9 @@ Tenho interesse em desenvolvimento de sistemas, qualidade de software e resoluç
 
 ## Projetos
 
-### [Gestor de Jornadas](https://github.com/Origins00/sistema-gestao-jornadas)
+### Gestor de Jornadas
+
+[Demonstração online](https://origins00.github.io/sistema-gestao-jornadas/) · [Código-fonte](https://github.com/Origins00/sistema-gestao-jornadas)
 
 Aplicação web full stack desenvolvida individualmente com Python, FastAPI, JavaScript, HTML, CSS e MySQL. O sistema reúne administração de usuários, controle de jornadas, calendário, notificações, relatórios e funcionamento como PWA. A versão pública foi generalizada e utiliza apenas configurações e dados demonstrativos.
 
