@@ -1,4 +1,4 @@
-# Olá, eu sou o Marcos Flávio! 👋
+# Olá, eu sou o Marcos Flávio!
 
 Sou estudante do 6º período de **Ciência da Computação no IFSULDEMINAS - Campus Passos**. Estou construindo minha experiência em Tecnologia da Informação por meio dos estudos e do desenvolvimento de projetos práticos.
 
