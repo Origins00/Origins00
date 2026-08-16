@@ -16,11 +16,9 @@ Tenho interesse em desenvolvimento de sistemas, qualidade de software e resoluç
 
 ## Projetos
 
-### Sistema-Canaã
+### [Gestor de Jornadas](https://github.com/Origins00/sistema-gestao-jornadas)
 
-Aplicação web de gestão interna desenvolvida individualmente com Python, FastAPI, JavaScript, HTML, CSS e MySQL. O sistema reúne administração de usuários, controle de jornadas, calendário, notificações e relatórios. Também foi estruturado como PWA e preparado para execução em servidor dedicado.
-
-> Repositório privado por conter configurações e regras de uma aplicação de uso interno.
+Aplicação web full stack desenvolvida individualmente com Python, FastAPI, JavaScript, HTML, CSS e MySQL. O sistema reúne administração de usuários, controle de jornadas, calendário, notificações, relatórios e funcionamento como PWA. A versão pública foi generalizada e utiliza apenas configurações e dados demonstrativos.
 
 ### [FitSystem Web](https://github.com/Origins00/fitsystem-web)
 
@@ -29,8 +27,3 @@ Protótipo frontend de uma plataforma para acompanhamento fitness, com dashboard
 ### [Calendário, Data e Hora](https://github.com/Origins00/calendario-data-hora)
 
 Aplicação web com relógio em tempo real, calendário, cronômetro, identificação de signos e lembretes salvos no navegador.
-
-## Contato
-
-[![E-mail](https://img.shields.io/badge/E--mail-mflavio1304%40hotmail.com-226FA8?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:mflavio1304@hotmail.com)
-
